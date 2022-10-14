@@ -9,3 +9,6 @@ This challenge is about convincing the clients that the bike-sharing program in 
 * Finally, adding these new visualizations to the final presentation and analysis to pitch to investors.
 
 ## Results:
+
+![111](https://user-images.githubusercontent.com/103544626/195929743-24ce7650-e8f1-45d0-814a-b7a80e572334.PNG)
+

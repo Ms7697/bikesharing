@@ -8,6 +8,8 @@ This challenge is about convincing the clients that the bike-sharing program in 
 * Show the number of bike trips for each type of user and gender for each day of the week.
 * Finally, adding these new visualizations to the final presentation and analysis to pitch to investors.
 
+https://public.tableau.com/app/profile/mustafa2932/viz/MS_CitiBikeChallenge/NYCCitiBike
+
 ## Results:
 
 ![111](https://user-images.githubusercontent.com/103544626/195929743-24ce7650-e8f1-45d0-814a-b7a80e572334.PNG)
